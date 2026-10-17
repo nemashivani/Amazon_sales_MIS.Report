@@ -36,5 +36,8 @@
 ## 📷 Dashboard Preview
 -  Amazon_Sales_dashboard.pdf
 
+## Project File 
+- [View raw sample CSV File]  https://drive.google.com/file/d/1lQlBb3ULwX_DT6WFqz754rrtxmnVP6ud/view?usp=sharing
+
 ## 🚀 Conclusion
 This dashboard helps in understanding sales performance and profitability trends.
